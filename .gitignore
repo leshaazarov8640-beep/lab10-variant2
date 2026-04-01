@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+go-service/go-service
+
+# Python
+__pycache__/
+venv/
+.env
+
+# Results
+.pytest_cache/
